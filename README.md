@@ -10,6 +10,7 @@
 - Naive Bayes
 - SVM
 - Perceptron
+- Decision Tree
  
  > Note : Other algorithms will be added in order
  
